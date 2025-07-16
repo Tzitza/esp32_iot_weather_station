@@ -69,7 +69,7 @@ The system operates in a continuous loop:
 - Change sensor pin by modifying `DHTPIN`
 - Adjust LCD I2C address if different from 0x27
 - Modify averaging interval by changing the 300000ms value
-- Update bucket ID in the `write_bucket` function.
+- Update bucket ID in the `write_bucket` function
 
 ## License
 
